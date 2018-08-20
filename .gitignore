@@ -1,0 +1,8 @@
+/ServiceCenter/bin
+/ServiceCenter/obj
+/ServiceCenterLibrary/bin
+/ServiceCenterLibrary/obj
+/TestOfServiceCenter/bin
+/TestOfServiceCenter/obj
+/.vs
+ServiceCenter.v12.suo
